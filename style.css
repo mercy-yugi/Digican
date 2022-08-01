@@ -1,0 +1,465 @@
+#logo img{
+    width: 13%;
+}
+ul li{
+    list-style-type: none;
+    float: left;
+    margin-left: 9%;
+}
+ul{
+    margin-left: 15%;
+    margin-top: -6%;
+    font-size: large;
+    font-weight: bold;
+}
+.button{
+    padding: 7px;
+    background-color: purple;
+    color: white;
+    border-style: none;
+    border-radius: 50px;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 5%;
+    margin-top: -1%;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: orange;
+    color: white;
+    border-style: none;
+}
+#wallpaper img{
+width: 100%;
+height: 400px;
+}
+h1{
+    margin-top: -30%;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h6{
+    color: white;
+    font-size: large;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 3%;
+}
+.button1{
+    padding: 10px;
+    background-color: purple;
+    border-style: none;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 40%;
+    margin-top: 3%;
+
+}
+.button1:hover{
+    color: white;
+    background-color:orange ;
+}
+hr{
+    line-height: 5px;
+}
+h2{
+    margin-top: 12%;
+    color: rgb(44, 13, 44);
+    font-size: xx-large;
+    text-align: center;
+    
+}
+#DEsc1{
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: center;
+    font-size:large;
+    color: rgb(41, 19, 41);
+    margin-bottom: 3%;
+}
+.button2{
+    padding: 10px;
+    border-color: purple;
+    border-radius: 30px;
+    width: 15%;
+    margin-left: 43%;
+    margin-bottom: 3%;
+}
+.button2:hover{
+    color: orange;
+    background-color: black;
+}
+#wall2 img{
+width: 100%;
+opacity: 0.3;
+}
+h3{
+    margin-top: -50%;
+    font-size: xxx-large;
+    color: rgb(61, 18, 61);
+    text-align: center;
+}
+.Body{
+    display: flex;
+    gap: 2em;
+}
+.Body1{
+    width: 30%;
+    height: 430px;
+    background-color:rgb(179, 158, 179);
+    border-radius: 20px;
+    margin-left: 3%;
+}
+.Body2{
+    width: 30%;
+    height: 430px;
+    background-color:rgb(179, 158, 179);
+    border-radius: 20px;
+}
+.Body3{
+    width: 30%;
+    height: 430px;
+    background-color:rgb(179, 158, 179);
+    border-radius: 20px;
+}
+.Body1 .fa-chart-line{
+    margin-left: 45%;
+    color:red;
+    font-size: xxx-large;
+    margin-top: 20%;
+}
+.Body2 .fa-database{
+    margin-left: 45%;
+    color:red;
+    font-size: xxx-large;
+    margin-top: 20%;
+}
+.Body3 .fa-cloud-arrow-down{
+    margin-left: 45%;
+    color:red;
+    font-size: xxx-large;
+    margin-top: 20%;
+}
+h4{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+#explain{
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: center;
+}
+.button3{
+    padding: 10px;
+    border-radius: 30px;
+    background-color: white;
+    width: 40%;
+    margin-left: 32%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.container3{
+    margin-top: 56%;
+background-color: rgb(247, 240, 247);
+}
+h5{
+    text-align: center;
+    font-size: larger;
+    margin-top: -3%;
+    color:red;
+    
+}
+#Body4{
+    margin-left: 6%;
+    margin-right: 6%;
+    text-align: center;
+    font-size: large;
+    margin-top: -1%;
+    margin-bottom: 3%;
+    padding-bottom: 3%;
+}
+.container4{
+    margin-top: 54%;
+}
+#visualization img{
+    width:70%;
+    margin-left:15%;
+}
+.woking{
+    display: flex;
+    gap: 4em;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+.woking .fa-graduation-cap{
+color: red;
+font-size: x-large;
+}
+.woking .fa-chart-line{
+    color: red;
+    font-size: x-large;
+}
+.woking .fa-book-open{
+    color: red;
+    font-size: x-large;
+}
+.woking .fa-mug-hot{
+    color: red;
+    font-size: x-large;
+}
+span{
+    color: black;
+    margin-left: 15%;
+}
+.container5 h3{
+margin-top: 50%;
+}
+#different{
+   font-size: xx-large;
+   font-weight: bolder;
+   text-align: center;
+   color: rgb(46, 32, 59);
+   margin-bottom: 2%;
+}
+#intro{
+    font-size:large;
+    margin-left: 4%;
+    margin-right: 4%;
+    color: rgb(73, 53, 73);
+    text-align: center;
+    margin-bottom: 3%;
+}
+#expl{
+    font-size: large;
+    margin-left: 4%;
+    margin-right: 55%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.container5 span{
+    color: red;
+    font-size: small;
+    margin-left: 15%;
+  
+}
+.fa-lightbulb{
+    font-size: x-large;
+    font-size: x-large;
+    margin-left: 5%;
+}
+.fa-people-group{
+    font-size: x-large;
+    font-size: x-large;
+    margin-left: 5%;
+}
+.fa-server{
+    font-size: x-large;
+    font-size: x-large;
+    margin-left: 5%; 
+}
+#img img{
+    margin-left: 54%;
+    margin-top: -40%;
+    width: 40%;
+}
+.container5{
+    margin-left: 5%;
+}
+.main{
+    display: flex;
+    gap: 3em;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.conc1{
+    width: 25%;
+    height: 280px;
+    background-color: rgb(240, 226, 240);
+    border-radius: 30px;
+}
+.conc2{
+    width: 25%;
+    height: 280px;
+    background-color: rgb(240, 226, 240);
+    border-radius: 30px;
+}
+.conc3{
+    width: 25%;
+    height: 280px;
+    background-color: rgb(240, 226, 240);
+    border-radius: 30px;
+}
+#test{
+    margin-left: 10%;
+    margin-right: 10%;
+text-align: center;
+margin-top: 3%;
+}
+.fa-quote-left{
+    margin-left: 45%;
+    font-size: xx-large;
+    color: red;
+    margin-top: 20%;
+}
+.explanation{
+    display: flex;
+    gap: 13em;
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+.int{
+    font-weight: bold;
+    color: red;
+}
+.int span{
+    color: rgb(36, 28, 36);
+}
+.container6{
+    background-image: url(/images/pexels-edward-jenner-4252517.jpg);
+    height: 650px;
+    border-radius:30px
+}
+#name{
+        width: 400px;
+        padding: 12px;
+        border: 1px solid rgb(139, 87, 170);
+        border-radius: 10px;
+        box-sizing: border-box;
+        resize: vertical;
+}
+.main-main{
+    margin-top: 30px;
+}
+
+  .container {  
+      padding: 50px;  
+    background-color: rgb(158, 146, 160); 
+    width: 450px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+  }  
+    
+  input[type=text], input[type=password], textarea {  
+    width: 400px;  
+    padding: 15px;  
+    margin: 5px 20px 22px 20px;  
+    display: inline-block;  
+    border-radius: 10px;  
+    border-style: none;
+    background: #f1f1f1;  
+  }  
+textarea{
+    height:90px;
+}
+input[type=submit] {
+    background-color: rgb(148, 80, 80);  
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border-style: none;
+    cursor: pointer;
+    margin-left: 20px;
+    font-weight: bolder;
+    font-size: x-large;
+  }
+  #title2{
+    color: rgb(90, 25, 90); 
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 70px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .mapouter{
+      margin-left: 450px;
+      margin-top: -550px;
+      padding-bottom: 74px;
+      border-radius: 30px;
+  }
+
+  #fhead{
+    display: flex; 
+    color: black;
+    padding-bottom: 12px;
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 15%;
+ }
+ .footer{
+     display: flex;
+     color:rgb(118, 122, 150);
+     
+ 
+ }
+ .pet{
+     margin-left: 90px;
+     padding-right: 170px;
+ }
+ .socialm{
+     display: flex;
+     gap: 0.5rem;
+     
+ }
+ .product{
+     padding-right: 170px;
+ }
+ .community{
+     padding-right: 170px;
+ }
+ #social1{
+     display: inline-block;  
+     margin-left: 2px;
+     padding: 15px;
+    border-radius: 30px;
+    background-color: rgb(77, 102, 212);
+    height: 8px;
+    margin-top: 40px;
+    color: white;
+    width: 9px;
+ }
+ #social2{
+     display: inline-block;  
+     margin-left: 20px;
+     padding: 15px;
+    border-radius: 30px;
+    background-color: rgb(77, 212, 212);
+    height: 8px;
+    margin-top: 40px;
+    color: white;
+    width: 9px;
+ }
+ #social3{
+     display: inline-block;  
+     margin-left: 20px;
+     padding: 15px;
+    border-radius: 35px;
+    background-color: rgb(241, 37, 37);
+    height: 8px;
+    margin-top: 40px;
+    color: white;
+    width: 9px;
+ }
+ #social4{
+     display: inline-block;  
+     margin-left: 20px;
+     padding: 15px;
+    border-radius: 35px;
+    background-color: rgb(33, 41, 75);
+    height: 8px;
+    margin-top: 40px;
+    color: white;
+    width: 9px;
+ }
+ 
